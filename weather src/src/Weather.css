@@ -1,0 +1,30 @@
+/* Weather.css */
+.weather-app {
+  min-height: 100vh;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: rgb(245, 242, 242);
+}
+
+.location-card {
+  background-color: black;
+  color: white; /* Ensures text is readable against the black background */
+}
+
+.card {
+  background: rgba(0, 0, 0, 0.7);  /* Semi-transparent background for readability */
+  color: white;
+}
+
+.weather-card {
+  width: 200px; /* Ensure each card has the same width */
+  height: 150px; /* Ensure each card has the same height */
+}
+
+.weather-icon {
+  width: 64px;
+  height: 64px;
+}
