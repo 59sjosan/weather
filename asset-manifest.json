@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/weather/static/css/main.7f675478.css",
+    "main.js": "/weather/static/js/main.74dff4cf.js",
+    "static/js/453.0ccb7fb4.chunk.js": "/weather/static/js/453.0ccb7fb4.chunk.js",
+    "static/media/cloudy-day.jpg": "/weather/static/media/cloudy-day.700d34d9af9d39d2e4c7.jpg",
+    "static/media/clear-night.jpg": "/weather/static/media/clear-night.e29e4478c371024242dd.jpg",
+    "static/media/rainy-day.jpg": "/weather/static/media/rainy-day.626a5caab7412cd0cce9.jpg",
+    "static/media/rainy-night.jpg": "/weather/static/media/rainy-night.cce2ef2b133a0a851765.jpg",
+    "static/media/sunny-day.jpg": "/weather/static/media/sunny-day.606546bdfa1d463f1715.jpg",
+    "static/media/cloudy-night.jpg": "/weather/static/media/cloudy-night.25a61bf40609216565bf.jpg",
+    "static/media/default.jpg": "/weather/static/media/default.d74fe627365613369690.jpg",
+    "index.html": "/weather/index.html",
+    "main.7f675478.css.map": "/weather/static/css/main.7f675478.css.map",
+    "main.74dff4cf.js.map": "/weather/static/js/main.74dff4cf.js.map",
+    "453.0ccb7fb4.chunk.js.map": "/weather/static/js/453.0ccb7fb4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f675478.css",
+    "static/js/main.74dff4cf.js"
+  ]
+}
